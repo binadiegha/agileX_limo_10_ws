@@ -137,6 +137,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/agilex/limonew_ws/build/gtest/cmake_install.cmake")
   include("/home/agilex/limonew_ws/build/limo_base/cmake_install.cmake")
+  include("/home/agilex/limonew_ws/build/limo_slam/cmake_install.cmake")
   include("/home/agilex/limonew_ws/build/ydlidar_ros/cmake_install.cmake")
 
 endif()
