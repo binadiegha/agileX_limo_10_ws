@@ -44,7 +44,7 @@ sudo apt-get install ros-melodic-tf # For coordinate frame transformation
 
 ## Running the project
 First ensure that you are using the correct work space.
-``` `bash 
+```bash 
   cd agileX_limo_10_ws
   source ~devel/setup.bash
 ```
