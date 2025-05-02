@@ -1,5 +1,6 @@
 # Autonomous Navigation with Path planning
 This project is built on the AgileX LIMO robotic platform, running Ubuntu 18.04 and ROS Melodic on a Jetson Nano. It focuses on core robotics functionalities, including environment mapping and localisation, leveraging both Gmapping and Karto-SLAM algorithms for SLAM (Simultaneous Localisation and Mapping). For autonomous navigation and path planning, the Dijkstra algorithm is implemented to determine the most efficient routes. To ensure seamless operation, the project requires Python 3, pip3, and a properly configured ROS Melodic environment. The integration of these tools allows for a robust and modular robotic system suitable for indoor navigation tasks.
+![riv-gmapping](https://github.com/user-attachments/assets/751d4bba-cf30-4df0-afef-204f6e4c2f88)
 
 ## Setting up project
 When you clone the repo. if it doesnt work. delete build and dev folders and rebuild the workspace.
