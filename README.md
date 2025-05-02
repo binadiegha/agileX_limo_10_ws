@@ -23,7 +23,7 @@ sudo chmod -R 666 /dev/ttyUSB0
 
 ## Installing dependencies
 Ensure all ros necessary ROS Dependencies are running, if not, intall all ROS dependenceis 
-``` bash
+```bash
 sudo apt update
 sudo apt install ros-melodic-desktop-full
 ```
