@@ -6,5 +6,6 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("limo_base")
+subdirs("limo_navigation")
 subdirs("limo_slam")
 subdirs("ydlidar_ros")
